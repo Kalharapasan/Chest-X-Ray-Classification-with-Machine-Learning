@@ -1,0 +1,5 @@
+Collecting protobuf
+  Using cached protobuf-6.33.2-cp310-abi3-win_amd64.whl.metadata (593 bytes)
+Using cached protobuf-6.33.2-cp310-abi3-win_amd64.whl (436 kB)
+Installing collected packages: protobuf
+Successfully installed protobuf-6.33.2
