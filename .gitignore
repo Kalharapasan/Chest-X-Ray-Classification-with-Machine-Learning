@@ -1,6 +1,3 @@
 .venv/ 
-chest_xray/
-test/
-train/
-val/
-__MACOSx/
+dataset/
+__MACOSX/
