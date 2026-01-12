@@ -16,7 +16,7 @@ A comprehensive machine learning project for classifying chest X-rays to detect 
 - [📦 Requirements](#-requirements)
 - [📈 Results](#-results)
 - [🤝 Contributing](#-contributing)
-- [📝 License](#-license)
+- [📝 License: Proprietary – Permission Required](#-license-proprietary--permission-required)
 - [🙏 Acknowledgments](#-acknowledgments)
 
 ## 🔍 Overview
@@ -165,7 +165,7 @@ The notebook provides comprehensive analysis including:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
+## 📝 [License](./LICENSE.md): Proprietary – Permission Required
 
 This project is for educational purposes. Please respect the original dataset license and Kaggle terms of service.
 
