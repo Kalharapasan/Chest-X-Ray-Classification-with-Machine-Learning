@@ -1,4 +1,4 @@
-"# Chest X-Ray Classification with Machine Learning
+# Chest X-Ray Classification with Machine Learning
 
 A comprehensive machine learning project for classifying chest X-rays to detect pneumonia using various ML algorithms including Decision Trees, Random Forest, and deep learning approaches.
 
